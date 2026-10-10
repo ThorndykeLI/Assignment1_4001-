@@ -8,7 +8,6 @@ solutions/
 *.pptx
 *.xlsx
 *.pdf
-*.ipynb
 .venv/
 outputs/
 __pycache__/
